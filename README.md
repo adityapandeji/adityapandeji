@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Aditya Pande</h1>
-<h3 align="center">A enthusiastic competitive programmer and frontend developer from India</h3>
+<h3 align="center">A enthusiastic competitive programmer and full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/11jacPItBsJDLa/giphy.gif?cid=790b7611456134112112705dddb9743fb3f48de57673232a&rid=giphy.gif&ct=g">
 
 <p align="left"> <a href="https://twitter.com/@aditya_pandeji" target="blank"><img src="https://img.shields.io/twitter/follow/@aditya_pandeji?logo=twitter&style=for-the-badge" alt="@aditya_pandeji" /></a> </p>
